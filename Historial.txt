@@ -1,2 +1,3 @@
 hola se me borro todo el directorio
-y bueno no se que le paso al gir asique empeizo uno nuevo
+y bueno no se que le paso al git anterior
+ asique empiezo uno nuevo.
