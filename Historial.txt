@@ -1,3 +1,4 @@
+Este es el header y lo que voy a hacer es solo poner esto.
 hola se me borro todo el directorio
 y bueno no se que le paso al git anterior
  asique empiezo uno nuevo.
