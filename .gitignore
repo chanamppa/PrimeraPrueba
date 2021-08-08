@@ -1,1 +1,2 @@
-*.jpg
+#Practicamente el git ignore en este caso ignora los archivos terminados en jpg
+*.jpg  
